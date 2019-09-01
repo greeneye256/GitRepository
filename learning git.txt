@@ -6,4 +6,5 @@ public class Main{
 }
 
 Adaug un rand nou
+Metoda noua
 
