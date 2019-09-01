@@ -4,3 +4,6 @@ Modificare pe master
 public class Main{
 	
 }
+
+Adaug un rand nou
+
